@@ -1,0 +1,10 @@
+flask>=1.1.2
+gunicorn>=20.0.4
+Jinja2>=2.11.2
+MarkupSafe>=1.1.1
+numpy>=1.18.5
+pandas>=1.1.3
+regex>=2.5.86
+spacy==3.7.1
+scikit-learn==0.23.2
+joblib>=0.17.0
